@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
       <project path="prebuilts/sd_clang" name="henmadx/proprietary_vendor_qcom_sdclang-8.0_linux-x86" remote="github" revision="pie" />
-      <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-9.2" name="najahiiii/priv-toolchains" remote="github" revision="elf/gcc-10.0.0/arm64" />
+      <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-9.2" name="henmadx/aarch64-elf-gcc" remote="github" revision="9.x" />
 </manifest>
