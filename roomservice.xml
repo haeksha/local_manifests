@@ -2,8 +2,7 @@
 <manifest>
 <project name="henmadx/device_xiaomi_capricorn" path="device/xiaomi/capricorn" remote="github" revision="revos-3.x" />
 <project name="henmadx/device_xiaomi_msm8996" path="device/xiaomi/msm8996-common" remote="github" revision="revos-3.x" />
-<project name="the-muppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="gitlab" revision="lineage-17.1" />
+<project name="henmadx/vendor_capricorn" path="vendor/xiaomi" remote="github" revision="revos-3.x" />
 <project name="SuperiorOS-Devices/kernel_xiaomi_capricorn" path="kernel/xiaomi/msm8996" revision="pie" remote="github"/>
-<-- <project path="prebuilts/sd_clang" name="henmadx/proprietary_vendor_qcom_sdclang-8.0_linux-x86" remote="github" revision="pie" /> -->
 <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-10.0" name="henmadx/priv-toolchains" remote="github" revision="elf/gcc-10.0.0/arm64" />
 </manifest>
