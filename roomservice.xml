@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project name="henmadx/device_xiaomi_capricorn" path="device/xiaomi/capricorn" remote="github" revision="revos-3.x" />
-<project name="henmadx/device_xiaomi_msm8996" path="device/xiaomi/msm8996-common" remote="github" revision="revos-3.x" />
+<project name="SuperiorOS-Devices/device_xiaomi_capricorn" path="device/xiaomi/capricorn" remote="github" revision="ten" />
+<project name="SuperiorOS-Devices/device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="github" revision="ten" />
 <project name="henmadx/vendor_capricorn" path="vendor/xiaomi" remote="github" revision="revos-3.x" />
-<project name="SuperiorOS-Devices/kernel_xiaomi_capricorn" path="kernel/xiaomi/msm8996" revision="pie" remote="github"/>
+<project name="SuperiorOS-Devices/kernel_xiaomi_capricorn" path="kernel/xiaomi/msm8996" revision="ten" remote="github"/>
 <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-10.0" name="henmadx/priv-toolchains" remote="github" revision="elf/gcc-10.0.0/arm64" />
 </manifest>
