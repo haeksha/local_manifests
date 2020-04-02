@@ -4,7 +4,7 @@
 
 **_1.Place The Roomservice:_**
 
-```cd ~/ROM && cd .repo && mkdir local_manifests && cd local_manifests && wget https://raw.githubusercontent.com/henmadx/local_manifests/master/roomservice.xml && cd ../..```
+```cd ~/ROM && cd .repo && mkdir local_manifests && cd local_manifests && wget https://raw.githubusercontent.com/henmadx/local_manifests/plus/roomservice.xml && cd ../..```
 
 **_2.Happy Sync :_**
 
