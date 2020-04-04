@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project name="henmadx/natrium" path="device/xiaomi/natrium" remote="github" revision="ten" />
-<project name="SuperiorOS-Devices/device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="github" revision="ten" />
-<project name="henmadx/vendor_gecana" path="vendor/xiaomi" remote="github" revision="ten" />
-<project name="SuperiorOS-Devices/kernel_xiaomi_capricorn" path="kernel/xiaomi/msm8996" revision="ten" remote="github"/>
+<project name="henmadx/pyxis" path="device/xiaomi/pyxis" remote="github" revision="ten" />
+<project name="henmadx/vendor_pyxis" path="vendor/xiaomi" remote="github" revision="ten" />
+<project name="henmadx/kernel_msm-4.9" path="kernel/xiaomi/pyxis_caf" revision="ten" remote="github"/>
 <project path="prebuilts/sd_clang" name="henmadx/proprietary_vendor_qcom_sdclang-8.0_linux-x86" remote="github" revision="quartz" />
-<project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-9.3" name="henmadx/aarch64-elf-gcc" remote="github" revision="master" />
 </manifest>
