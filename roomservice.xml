@@ -2,5 +2,5 @@
 <manifest>
 <project name="henmadx/pyxis" path="device/xiaomi/pyxis" remote="github" revision="ten" />
 <project name="henmadx/vendor_pyxis" path="vendor/xiaomi" remote="github" revision="ten" />
-<project name="henmadx/kernel_xiaomi_pyxis" path="kernel/xiaomi/pyxis_caf" revision="ten" remote="github"/>
+<project name="henmadx/kernel_xiaomi_pyxis" path="kernel/xiaomi/pyxis_caf" revision="master" remote="github"/>
 </manifest>
