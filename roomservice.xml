@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project name="henmadx/pyxis" path="device/xiaomi/pyxis" remote="github" revision="anci" />
-<project name="henmadx/vendor_pyxis" path="vendor/xiaomi" remote="github" revision="ten" />
+<project name="xiaomi-pyxis/android_device_xiaomi_pyxis" path="device/xiaomi/pyxis" remote="github" revision="pixelexp" />
+<project name="xiaomi-pyxis/android_vendor_xiaomi_pyxis" path="vendor/xiaomi" remote="github" revision="master" />
 <project name="henmadx/kernel_xiaomi_pyxis" path="kernel/xiaomi/pyxis_caf" revision="master" remote="github"/>
 </manifest>
