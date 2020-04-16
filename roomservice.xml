@@ -3,7 +3,7 @@
 <project name="SuperiorOS-Devices/device_xiaomi_capricorn" path="device/xiaomi/capricorn" remote="github" revision="ten" />
 <project name="SuperiorOS-Devices/device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="github" revision="ten" />
 <project name="SuperiorOS-Devices/vendor_xiaomi_msm8996" path="vendor/xiaomi" remote="github" revision="ten" />
-<project name="henmadx/kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" revision="los" remote="github"/>
+<project name="SuperiorOS-Devices/kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" revision="ten" remote="github"/>
 <project path="prebuilts/sd_clang" name="henmadx/proprietary_vendor_qcom_sdclang-8.0_linux-x86" remote="github" revision="quartz" />
 <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-9.3" name="henmadx/aarch64-elf-gcc" remote="github" revision="master" />
 </manifest>
