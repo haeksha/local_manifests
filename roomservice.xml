@@ -6,4 +6,5 @@
 <project name="SuperiorOS-Devices/kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" revision="ten" remote="github"/>
 <project path="prebuilts/sd_clang" name="henmadx/proprietary_vendor_qcom_sdclang-8.0_linux-x86" remote="github" revision="quartz" />
 <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-9.3" name="henmadx/aarch64-elf-gcc" remote="github" revision="master" />
+<project name="LineageOS/android_packages_apps_Snap" path="packages/apps/Snap" revision="lineage-17.1" remote="github"/>
 </manifest>
