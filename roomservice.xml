@@ -4,5 +4,6 @@
 <project name="henmadx/device_xiaomi_msm8996" path="device/xiaomi/msm8996-common" remote="github" revision="nasi" />
 <project name="SuperiorOS-Devices/vendor_xiaomi_msm8996" path="vendor/xiaomi" remote="github" revision="ten" />
 <project name="SuperiorOS-Devices/kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" revision="ten" remote="github"/>
-<project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-10.1" name="milouk/gcc-prebuilt-elf-toolchains" remote="github" revision="master" />
+<project path="prebuilts/sd_clang" name="henmadx/proprietary_vendor_qcom_sdclang-8.0_linux-x86" remote="github" revision="quartz" />
+<project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-9.3" name="henmadx/aarch64-elf-gcc" remote="github" revision="master" />
 </manifest>
