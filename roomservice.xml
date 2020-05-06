@@ -2,6 +2,7 @@
 <manifest>
 <!-- Display LOL -->
 <remove-project name="hardware_qcom-caf_msm8996_display" />
+<remove-project name="external/skia" />
 
 <!-- DispHOL -->
 <project path="hardware/qcom-caf/msm8996/display" name="LineageOS/android_hardware_qcom_display" remote="github" revision="lineage-17.1-caf-msm8996" />
