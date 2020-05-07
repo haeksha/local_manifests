@@ -7,6 +7,7 @@
 <!-- DispHOL
 <project path="hardware/qcom-caf/msm8996/display" name="LineageOS/android_hardware_qcom_display" remote="github" revision="lineage-17.1-caf-msm8996" />
 -->
+<project name="henmadx/vendor_MiuiCamera" path="vendor/MiuiCamera" remote="github" revision="ten-anx" />
 <project name="henmadx/capricorn" path="device/xiaomi/capricorn" remote="github" revision="nasi" />
 <project name="henmadx/device_xiaomi_msm8996" path="device/xiaomi/msm8996-common" remote="github" revision="nasi" />
 <project name="SuperiorOS-Devices/vendor_xiaomi_msm8996" path="vendor/xiaomi" remote="github" revision="ten" />
