@@ -7,8 +7,8 @@
 <!-- DispHOL
 <project path="hardware/qcom-caf/msm8996/display" name="LineageOS/android_hardware_qcom_display" remote="github" revision="lineage-17.1-caf-msm8996" />
 -->
-<project name="henmadx/capricorn" path="device/xiaomi/capricorn" remote="github" revision="nasi" />
-<project name="henmadx/device_xiaomi_msm8996" path="device/xiaomi/msm8996-common" remote="github" revision="nasi" />
+<project name="henmadx/capricorn" path="device/xiaomi/capricorn" remote="github" revision="t" />
+<project name="henmadx/device_xiaomi_msm8996" path="device/xiaomi/msm8996-common" remote="github" revision="t" />
 <project name="SuperiorOS-Devices/vendor_xiaomi_msm8996" path="vendor/xiaomi" remote="github" revision="ten" />
 <project name="SuperiorOS-Devices/kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" revision="ten" remote="github"/>
 <project path="prebuilts/sd_clang" name="henmadx/proprietary_vendor_qcom_sdclang-8.0_linux-x86" remote="github" revision="quartz" />
