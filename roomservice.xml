@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project name="henmadx/palove" path="device/xiaomi/capricorn" remote="github" revision="pa" />
-<project name="henmadx/palove" path="device/xiaomi/msm8996-common" remote="github" revision="pa-msm8996" />
+<project name="henmadx/capricorn" path="device/xiaomi/capricorn" remote="github" revision="re" />
+<project name="henmadx/device_xiaomi_msm8996" path="device/xiaomi/msm8996-common" remote="github" revision="re" />
 <project name="SuperiorOS-Devices/vendor_xiaomi_msm8996" path="vendor/xiaomi" remote="github" revision="ten" />
 <project name="SuperiorOS-Devices/kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" revision="ten" remote="github"/>
 <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-9.3" name="henmadx/aarch64-elf-gcc" remote="github" revision="master" />
