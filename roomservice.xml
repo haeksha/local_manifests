@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project name="SuperiorOS-Devices/device_xiaomi_capricorn" path="device/xiaomi/capricorn" remote="github" revision="ten" />
-<project name="SuperiorOS-Devices/device_xiaomi_gemini" path="device/xiaomi/gemini" remote="github" revision="ten" />
-<project name="SuperiorOS-Devices/device_xiaomi_natrium" path="device/xiaomi/natrium" remote="github" revision="ten" />
-<project name="SuperiorOS-Devices/device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="github" revision="ten" />
-<project name="SuperiorOS-Devices/vendor_xiaomi_msm8996" path="vendor/xiaomi" remote="github" revision="ten" />
+<project name="haeksha/capricorn" path="device/xiaomi/capricorn" remote="github" revision="q" />
+<project name="haeksha/device_xiaomi_msm8996" path="device/xiaomi/msm8996-common" remote="github" revision="q" />
+<project name="haeksha/vendor_xiaomi_msm8996" path="vendor/xiaomi" remote="github" revision="ten" />
 <project name="SuperiorOS-Devices/kernel_xiaomi_msm8996" path="kernel/xiaomi/msm8996" revision="ten" remote="github"/>
-<project path="prebuilts/sd_clang" name="henmadx/proprietary_vendor_qcom_sdclang-8.0_linux-x86" remote="github" revision="quartz" />
+<project path="prebuilts/sd_clang" name="haeksha/proprietary_vendor_qcom_sdclang-8.0_linux-x86" remote="github" revision="quartz" />
+<project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-9.3" name="haeksha/arm64-gcc" remote="github" revision="gcc9" />
 </manifest>
